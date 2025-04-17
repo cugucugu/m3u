@@ -123,10 +123,6 @@ http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/playlist.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="Spor",SSPORT2
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/playlist.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="Spor",SSPORT1-1
-fener2.demoscript.buzz/hls/bein-sports-1.m3u8
-#EXTINF:-1 tvg-country="TR" tvg-logo="" group-title="Spor",SSPORT2-2
-fener2.demoscript.buzz/hls/bein-sports-2.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor.tr" tvg-logo="http://assets.tvcdn.net/f771bddf-7354-4857-8d33-51be11bc7bdd.png" group-title="Spor",Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
 #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
