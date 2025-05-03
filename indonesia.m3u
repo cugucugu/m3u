@@ -93,9 +93,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-logo="https://i.imgur.com/d8dQo6E.png" tvg-name="MQTV" group-title="Semua",MQTV (720p) [Not 24/7]
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" tvg-name="MOJI TV 1" group-title="Semua",MOJI TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
 #EXTINF:-1 tvg-id="NET.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/net.png?raw=true" tvg-name="NET. 1" group-title="Semua",NET. 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
@@ -168,6 +170,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="Wesal TV" group-title="Semua",Wesal TV 
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+
 #EXTINF:-1 tvg-id="KPlus.sg" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kplus.png?raw=true" tvg-name="K-Plus" group-title="Premium",K-Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
@@ -208,3 +211,35 @@ https://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="PlutoTVDoraTV.us" tvg-logo="https://dl.dropboxusercontent.com/s/pu99ywa0k36z8nt/doratv.png" tvg-name="Pluto TV Dora TV" group-title="Kids",Pluto TV Dora TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬TV-TV Arab🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬
+
+#EXTINF:-1 tvg-id="TRT ARABI" tvg-name="TRT ARABİ HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",TRT ARABI HD
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="AL JAZEERA AR" tvg-name="AL JAZEERA HD [AR]" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL JAZEERA HD [AR]
+https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AL JAZEERA AR" tvg-name="AL JAZEERA HD [AR]" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL JAZEERA HD [AR]
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+
+#EXTINF:-1 tvg-id="AL JAZEERA ENG" tvg-name="AL JAZEERA HD [ENG]" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL JAZEERA HD [ENG]
+https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="AL JAZEERA ENG" tvg-name="AL JAZEERA HD [ENG]" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL JAZEERA HD [ENG]
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="AL ARABIA" tvg-name="AL ARABIA HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL ARABIA HD
+https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+
+#EXTINF:-1 tvg-id="AL ARABIA" tvg-name="AL ARABIA HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL ARABIA 2 HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AL ARABIA" tvg-name="AL ARABIA HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL ARABIA 3 HD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AL HADATH" tvg-name="AL HADATH" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL HADATH
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SKY NEWS ARABIC" tvg-name="SKY NEWS ARABIC" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",SKY NEWS ARABIC
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
