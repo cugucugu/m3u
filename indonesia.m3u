@@ -232,11 +232,11 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="AL ARABIA" tvg-name="AL ARABIA HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL ARABIA HD
 https://shls-live-ak.akamaized.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 
-#EXTINF:-1 tvg-id="AL ARABIA" tvg-name="AL ARABIA HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL ARABIA 2 HD
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AL ARABIA" tvg-name="AL ARABIA HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL ARABIA 3 HD
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AL ARABI" tvg-name="AL ARABI HD" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL ARABI HD
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AL HADATH" tvg-name="AL HADATH" tvg-logo="" group-title="[🇪🇬]TV-TV Arab",AL HADATH
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
