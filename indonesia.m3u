@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AKTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/AkTV_2017.png" tvg-name="AKTV" group-title="Semua",AKTV
-https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" tvg-name="ANTV" group-title="Semua",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 
 #EXTINF:-1 tvg-id="AlImanTV" tvg-logo="https://aliman.id/site/wp-content/uploads/2023/12/alimanid.png" tvg-name="Al-Iman TV" group-title="Semua",Al-Iman TV
 https://tv.aliman.id/aliman/live.m3u8
@@ -11,14 +12,6 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="AlwafaTarimTV(AmMedia)" tvg-logo="https://alwafatarim.tv/assets/images/logo.png" tvg-name="Alwafa Tarim TV" group-title="Semua",Alwafa Tarim TV (Am Media)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/antv.png?raw=true" tvg-name="ANTV" group-title="Semua",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
-
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" tvg-name="ANTV (dens)" group-title="Semua",ANTV (dens)
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
