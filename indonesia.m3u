@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-id="AKTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/AkTV_2017.png" tvg-name="AKTV" group-title="Semua",AKTV
 https://e.siar.us/live/aktv.m3u8
 
-
 #EXTINF:-1 tvg-id="AlImanTV" tvg-logo="https://aliman.id/site/wp-content/uploads/2023/12/alimanid.png" tvg-name="Al-Iman TV" group-title="Semua",Al-Iman TV
 https://tv.aliman.id/aliman/live.m3u8
 
@@ -71,7 +70,6 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-id="DutaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/11/Logo_Duta_TV.png" tvg-name="Duta TV" group-title="Semua",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-
 
 #EXTINF:-1 group-title="Semua" tvg-logo="https://www.dens.tv/images/channel-logo/94.jpg" tvg-id="94" , Elshinta TV
 http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Elshinta_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -246,7 +244,6 @@ https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="RodjaTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/rodjatv.png?raw=true" tvg-name="Rodja TV 1" group-title="Semua",Rodja TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
-
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.indonesiacantik.co.id/wp-content/uploads/2018/10/RTV-Logo.jpg" group-title="Semua",RTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
