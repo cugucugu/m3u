@@ -14,11 +14,6 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-id="AlwafaTarimTV(AmMedia)" tvg-logo="https://alwafatarim.tv/assets/images/logo.png" tvg-name="Alwafa Tarim TV" group-title="Semua",Alwafa Tarim TV (Am Media)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
-#EXTINF:-1 group-title="Semua" tvg-id="Bali TV"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLCQCl7j8IFovVwkxjRr1fvQUxQFJ441ljfQ&s",BALI TV
-https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #EXTINF:-1 tvg-id="BalikpapanTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b0/Logo_Balikpapan_TV_2015.png" tvg-name="Balikpapan TV" group-title="Semua",Balikpapan TV
 https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
@@ -48,15 +43,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Daai TV" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5a48505902/c86c1884dc50452aae2be2f0fd15d78f.jpg" tvg-name="DAAI (dens)" group-title="Semua",DAAI (dens)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
-
 #EXTINF:-1 tvg-id="DhammaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/63/Dhamma_TV_baru.png" tvg-name="Dhamma TV" group-title="Semua",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-
-#EXTINF:-1 tvg-id="DhohoTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/9/94/DhohoTVlogo.png" tvg-name="Dhoho TV" group-title="Semua",Dhoho TV
-https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png" tvg-name="Dhoho TV- Kediri" group-title="Semua",Dhoho TV- Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -87,11 +75,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:-1 tvg-id="HadiTv" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="Hadi Tv" group-title="Semua",Hadi TV
 https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
 
-#EXTINF:-1 tvg-id="HumaBetangTV.id" tvg-logo="https://i.imgur.com/xBTqOEu.png" group-title="Semua",Huma Betang TV (720p) [Not 24/7]
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IDTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/idtv.png?raw=true" tvg-name="IDTV" group-title="Semua",IDTV
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -105,10 +88,6 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
-#EXTINF:-1 group-title="Semua" tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://i.imgur.com/PAy1NQ4.png",iNews-Backup
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #EXTINF:-1 tvg-id="InspiraTV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="Inspira TV" group-title="Semua",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
@@ -119,14 +98,8 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" tvg-name="JAK TV" group-title="Semua",JAK TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
-
-#EXTINF:-1 tvg-id="JawaPosTV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="Jawa Pos TV" group-title="Semua",Jawa Pos TV
-https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" tvg-name="Jawapos TV" group-title="Semua",Jawapos TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wkK7YNx.png" tvg-name="JITV Jogja" group-title="Semua",JITV Jogja
@@ -141,19 +114,12 @@ http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ktv.m3u8
 
-#EXTINF:-1 tvg-id="KilisuciTV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="Kilisuci TV" group-title="Semua",Kilisuci TV
-https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png" tvg-name="Kilisuci TV Kediri" group-title="Semua",Kilisuci TV Kediri
 https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" tvg-name="Kompas TV" group-title="Semua",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
-
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/kompastv.png?raw=true" tvg-name="Kompas TV 1" group-title="Semua",Kompas TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 
 #EXTINF:-1 tvg-id="LingkarTV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="Lingkar TV" group-title="Semua",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
@@ -163,21 +129,12 @@ https://re1.siar.us/madutv/hd720/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" tvg-name="Magna" group-title="Semua",Magna
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="MagnaChannel" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="Magna Channel" group-title="Semua",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" tvg-name="Metro TV" group-title="Semua",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" tvg-name="Metro TV 1" group-title="Semua",Metro TV 1
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" tvg-name="Metro TV" group-title="Semua",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
-
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/metrotv.png?raw=true" tvg-name="Metro TV 2" group-title="Semua",Metro TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
-https://op-group1-swiftservehd-1.dens.tv/h/h211/index.m3u8
 
 #EXTINF:-1 tvg-id="MGSTV" tvg-logo="https://gitlatte.github.io/m3ueditor/images/default-channel.png" tvg-name="MGS TV" group-title="Semua",MGS TV
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
@@ -215,10 +172,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" tvg-name="RCTI 2" group-title="Semua",RCTI 2
-https://allcutv.rctiplus.id/rcti2023.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png" tvg-name="RCTI R+" group-title="Semua",RCTI R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-logo="https://media.suara.com/suara-partners/deli/thumbs/480x270/2023/09/08/1-rcti.jpg" group-title="Semua",RCTI
