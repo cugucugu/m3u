@@ -435,6 +435,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8?app_type=web&userid=lite
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4lctBk6tik8830OPEr9M_TpsTeW24Z_C4TQ&s" group-title="Kids",VTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/vtv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOJo9ocuk6_xARYcvdOb26yX162-IMgY7D1Z3DIz2Y0MzkWsKOTQjszg&amp;s=10" tvg-name="Biznet Kids HD" group-title="Kids",Biznet Kids HD
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
 
