@@ -1,0 +1,91 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey4.xml"
+#EXTINF:-1 tvg-name="Sıfır TV" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO",Sıfır TV
+http://yt-hls.trgmx.workers.dev/?ID=UCDX7Vf8VLBHdC-HZtKG9gOQ
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-name="CNN TÜRK" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk",CNN TÜRK
+http://yt-hls.trgmx.workers.dev/?ID=UCV6zcRug6Hqp1UX_FdyUeBg
+#EXTINF:-1 tvg-id="HABERTURK.tr" tvg-name="HABERTURK" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/sgLqVc2LbmFb-r8OMY3Ib5o1MYjFSdY3KHSPYQ6EIjBNYYkgtljQbxEkeQG2zNeNPloQGCJ5",HABERTURK
+http://yt-hls.trgmx.workers.dev/?ID=UCn6dNfiRE_Xunu7iMyvD7AA
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/u8lIyigiEuofBWzGVRVJ_WOOdXp6cPTt9-02Kp8lG4XgMHXx0ZB_lwNINw4sLJaAk6ej35ueeA",HALK TV
+http://yt-hls.trgmx.workers.dev/?ID=UCf_ResXZzE-o18zACUEmyvQ
+#EXTINF:-1 tvg-id="Tv100.tr" tvg-name="tv100" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/mEP9UzwxoTmVpxHQI4yYvXbpjWtZdfg8aA8XZVriwzoQVXze7nFe3TyfsEvglZIOCQh3LfPRH_8",tv100
+http://yt-hls.trgmx.workers.dev/?ID=UCndsdUW_oPLqpQJY9J8oIRg
+#EXTINF:-1 tvg-id="NTV.tr" tvg-name="NTV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/PUOG4AugF5attdcdO6O1sOIkFykoEJBTKF0d6hLlzAj_VCPD3MUyMOZTiwyfs-NbqL7qLNJuRw",NTV
+http://yt-hls.trgmx.workers.dev/?ID=UC9TDTjbOjFB9jADmPhSAPsw
+#EXTINF:-1 tvg-id="AHaber.tr" tvg-name="AHABER" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/3a7gv0YZ9X6kWk_kfffCq3Gdws5g54JntzV1fSHQomWFDb-1mUuJTiCTX4HxUG9SMjqYyBN4guE",AHABER
+http://yt-hls.trgmx.workers.dev/?ID=UCKQhfw-lzz0uKnE1fY1PsAA
+#EXTINF:-1 tvg-id="SozcuTV.tr" tvg-name="SÖZCÜ TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/_HznzWrS2cMaKa8Jp_uZhzWt7-25ijH7pZlXq45D9vapjDu5DRsh9uu0vfa2NH2Iayw5yxhaDQ",SÖZCÜ TV
+http://yt-hls.trgmx.workers.dev/?ID=UCOulx_rep5O4i9y6AyDqVvw
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT HABER" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/X-b7tJvjfBMDHCAafwyNV89qJ_FlzlXChymSisVsncnPpgOLLHknR6n1wtm8huk0SJz3KhNRTQ",TRT HABER
+http://yt-hls.trgmx.workers.dev/?ID=UCBgTP2LOFVPmq15W-RH-WXA
+#EXTINF:-1 tvg-name="KORKU FİLM 7/24" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kjqGhR6pxehZeMK0St6-8RDj_xhtvAz1pGwGewEjh9Rw",KORKU FİLM 7/24
+http://yt-hls.trgmx.workers.dev/?ID=UCsbpTjR1Vh0L3gvBg9d0Dbg
+#EXTINF:-1 tvg-name="YEŞİLÇAM ARZU FİLM 7/24" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE",YEŞİLÇAM ARZU FİLM 7/24
+http://yt-hls.trgmx.workers.dev/?ID=UCUALYmnkEmx8vlxIbpr2gmw
+#EXTINF:-1 tvg-name="KEMAL SUNAL GÜLŞAH FİLM 7/24" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI",KEMAL SUNAL GÜLŞAH FİLM 7/24
+http://yt-hls.trgmx.workers.dev/?ID=UCHumSHRFQ8skiHTY75sxytQ
+#EXTINF:-1 tvg-id="HaberGlobal" tvg-name="Haber Global TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/jSWgyqCsy8hQ9sIgccNhbUht_koPL8VYqZkirL7GLrj8QwOYBhkIkVEjq9OTEAM3mOlSIymwZw",Haber Global TV
+http://yt-hls.trgmx.workers.dev/?ID=UCtc-a9ZUIg0_5HpsPxEO7Qg
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-name="ASPOR" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/43xh3uEvLl7kAKca-zFauATzT3spixqjb9v-cYBVxBLzbcbVj42iV3Msbpd5zXwN_w7jXdnzFq8",ASPOR
+http://yt-hls.trgmx.workers.dev/?ID=UCJElRTCNEmLemgirqvsW63Q
+#EXTINF:-1 tvg-id="DiyanetTV" tvg-name="DIYANET TV" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kg1PXkb5IvOoU7c2haUmoWIPg20lNNFb-jk8qkh4PQ3_4",DIYANET TV
+http://yt-hls.trgmx.workers.dev/?ID=UC3d1AdmvAP6Jq16-WpD086g
+#EXTINF:-1 tvg-id="BloombergHT.tr" tvg-name="Bloomberg HT" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kYr_pJ26fMpoQPKgJEACBiddx9WO4CV4akUE8yBzhrHMg",Bloomberg HT
+http://yt-hls.trgmx.workers.dev/?ID=UCApLxl6oYQafxvykuoC2uxQ
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT Haber" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mLAxlfYMg4fHPVZA80ly_sjryTgQGUDe-TeH4-j3zrkw",TGRT Haber
+http://yt-hls.trgmx.workers.dev/?ID=UCzgrZ-CndOoylh2_e72nSBQ
+#EXTINF:-1 tvg-id="KralPopRadyo.tr" tvg-name="Kral Pop TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/VdVVUwzexITWPML3mfsUl7O2zUGa_f5gSuk6Gu5DNHVwzIlz99EnjNgO41Ay33_ovq48pQ5-0hA",Kral Pop TV
+http://yt-hls.trgmx.workers.dev/?ID=UCEAW_kmPVjxTC50vuLyKOQA
+#EXTINF:-1 tvg-id="KRTTV" tvg-name="KRT TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/5-coJeWxxU9a8VNXv-X7fXpclUFJk2a4KXLdOUSADNIRfJDM2Shmc1eybhHL6nS_nYz4_yKFWVk",KRT TV
+http://yt-hls.trgmx.workers.dev/?ID=UCVKWwHoLwUMMa80cu_1uapA
+#EXTINF:-1 tvg-id="24.tr" tvg-name="24 TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/gWxG3v8R74BMB5GWgX0v9HoFKmKLtTl533CgLfoHcRfRXQPTTcAYgvrnplkwqOmq4GZnmOLkbw",24 TV
+http://yt-hls.trgmx.workers.dev/?ID=UCN7VYCsI4Lx1-J4_BtjoWUA
+#EXTINF:-1 tvg-id="beINSPORTS" tvg-name="beIN SPORTS HABER" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/_vs7K9u3pS-C7flO0cVIkxqgLsIkjElGL6izCYFzI0COAYKda5g2J9DRB9-EHsfTXwA_ayi72g",beIN SPORTS HABER
+http://yt-hls.trgmx.workers.dev/?ID=UCPe9vNjHF1kEExT5kHwc7aw
+#EXTINF:-1 tvg-id="TELE1" tvg-name="TELE1" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/PGlG_irVgl4vfh2EC7516oXfD6zYRSqoLhP-gY-yn7qoYjBb8A3osdHR4oQf527ay7nU9jUE",TELE1
+http://yt-hls.trgmx.workers.dev/?ID=UCoHnRpOS5rL62jTmSDO5Npw
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-name="ULKE TV" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nlq08_guC6EugVRKi1Dh6cfQdGa0xcsh8blj0_-VGzhVo",ULKE TV
+http://yt-hls.trgmx.workers.dev/?ID=UCi65FGbYYj-OzJm2luB_fNQ
+#EXTINF:-1 tvg-id="EkolTV" tvg-name="Ekol TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/JVAuYddvBYPdqhyyarV_rcCENeakjwr8EzyPGr3oYpgEgQoA-THYuxuTm5xcC0MmMJ16mZRz",Ekol TV
+http://yt-hls.trgmx.workers.dev/?ID=UCccxXUKSuqOrlWQxweZBAQw
+#EXTINF:-1 tvg-id="TVNET" tvg-name="TVNET" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/WJm8IMexX9Atd0eOkmHFXagUieCC43mZO1B-TQAhBYm8iR4H5do0Go_kYWz_g-bSYxx6yXZPycI",TVNET
+http://yt-hls.trgmx.workers.dev/?ID=UC8rh34IlJTN0lDZlTwzWzjg
+#EXTINF:-1 tvg-id="SHOWMAX" tvg-name="SHOWMAX" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/CDb0NOanxCguX91pZcIejLfP4Pe4GRLmLj5x_34a_ljfE3FHeuZ_n3z_85OkpoluBZyxxRq3Ivk",SHOWMAX
+http://yt-hls.trgmx.workers.dev/?ID=UC9JMe_We017gYrRc7kZHgmg
+#EXTINF:-1 tvg-id="MINIKAGO" tvg-name="MINIKA GO" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/FQb9WrDR-ipVBN6yBJnwF4iKYequ1G68qo0jOhapJoeAlPZa_dv_WQ82L1Z4zft_ukrc4gkZ",MINIKA GO
+http://yt-hls.trgmx.workers.dev/?ID=UC9X88P0O8YaX1nWwIFPoamw
+#EXTINF:-1 tvg-id="DIYANETCOCUK" tvg-name="DIYANET COCUK" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/B63Iy6s7806LvjKeJZCQOdmXqp5F74QmMQmPDEHfDsTpipBrVFW4zraq4E5O3OZDYm417YhAJg",DIYANET COCUK
+http://yt-hls.trgmx.workers.dev/?ID=UCCfTktnzWK__FUN4gj0zIpA
+#EXTINF:-1 tvg-id="NILOYATV" tvg-name="NILOYA TV" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0YISWW6FB00uk01CGhSPulWjKSui70KBXfGCixbErQQ",NILOYA TV
+http://yt-hls.trgmx.workers.dev/?ID=UCKFIi1uWM9BCMb7O_GyvBsQ
+#EXTINF:-1 tvg-id="AKITTV" tvg-name="AKIT TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/u7W_zTezWfYi6zwkO9et9XLITXUXsb636AhT36NuqVDoutG08Rdy9uoNmchMcuC7wNbjP89oBQ",AKIT TV
+http://yt-hls.trgmx.workers.dev/?ID=UCbaLyHJp6S9Lsj6oT9aJsQw
+#EXTINF:-1 tvg-id="FLASHHABER" tvg-name="FLASH HABER" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/9Hqnz42k04uQF15nx0Dk9sh6JtLWtVtzMIxp_W4TuxtUB2cq2Q515dnD095_muJUBjUhtRz70sA",FLASH HABER
+http://yt-hls.trgmx.workers.dev/?ID=UCNcjCb2RnA3eMMhTZSxZu3A
+#EXTINF:-1 tvg-id="VAVTV" tvg-name="VAV TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/2m_4uFImiV24g-GaBxebdKKOWzLkY-e6LUk-vwZuyYwNgHNNmzqExkyxqrsd-lUx5LQ9Z6kBbko",VAV TV
+http://yt-hls.trgmx.workers.dev/?ID=UCmMPdW0rtbEI_XyIsMlMnqg
+#EXTINF:-1 tvg-id="UlusalKanalTV" tvg-name="Ulusal Kanal TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/EDcyi5hZ1hX_gPI-QQGKqcBwsQlvuuD3hz-N8utLebWL0uLE9pqTzpS8jXW7J-lsUmEICR5K3w",Ulusal Kanal TV
+http://yt-hls.trgmx.workers.dev/?ID=UC6T0L26KS1NHMPbTwI1L4Eg
+#EXTINF:-1 tvg-id="HTSpor" tvg-name="HT Spor" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/B3IWp1Ke7InBdWs0z8dkXpRlg4J6lQ0ETi8hbMQ64w3uh9RfHTOtU6K7_uLYRbIoA6NteY9a",HT Spor
+http://yt-hls.trgmx.workers.dev/?ID=UCK3mI2lsk3LSo8PBUc8JTSw
+#EXTINF:-1 tvg-id="APARA" tvg-name="APARA" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/XJtyMUH7ikXxeg2nrhjVb0k9LbpdqimTV9QawOxlQipdDFYe0cy6kdFZeFqzpeqPCyOkJCMM_w",APARA
+http://yt-hls.trgmx.workers.dev/?ID=UCzrGg6iyRDuUSnO0cQ5oLcA
+#EXTINF:-1 tvg-id="SEMERKANDTV" tvg-name="SEMERKAND TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/91txrcGq04h_9QBSkLwJAmz6_NRmgb8sf8LdTZ4iCsrFZqosZ-kwbUWs3zEgb2qVcH9WTAmxtw",SEMERKAND TV
+http://yt-hls.trgmx.workers.dev/?ID=UCy4NY-cswicIclx2XKqe5Kg
+#EXTINF:-1 tvg-id="MEDYAHABER" tvg-name="MEDYA HABER" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/TgnFA-5il-xAcdn23-8PJMK8A5fl7a-7g4i-5MiWq9vbYLIHaLDf1UxJWvEYNH97jgyg8qpL",MEDYA HABER
+http://yt-hls.trgmx.workers.dev/?ID=UC9iNphB47yGrxMgFd2uVHXQ
+#EXTINF:-1 tvg-id="TJKTv" tvg-name="TJK TV" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nHSKFStnIjdMil38RGvlbpMPATSHd7TjRgKRH88iEV5Y8",TJK TV
+http://yt-hls.trgmx.workers.dev/?ID=UCNLO4lpteIloZ4IKb9L2DoA
+#EXTINF:-1 tvg-id="TayTV" tvg-name="TAY TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/AgzGuZHFSwpBElmch2JBtDO1QT41VDovR91HaKGWX3JIjtPFATmf_lPCNX9F8YDCtdUmimJehQ",TAY TV
+http://yt-hls.trgmx.workers.dev/?ID=UCjkRA7KEdp7PDKDUs396XHg
+#EXTINF:-1 tvg-id="CBCeTV" tvg-name="CBC-e TV" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/Rh1aC6tWB_CLSqR2gRW8UPXfCsqZE-7m83CPpBNLk8CI6ybTGDNWy7jF7jFGkHIffyUEyF8BW38",CBC-e TV
+http://yt-hls.trgmx.workers.dev/?ID=UCaO-M1dXacMwtyg0Pvovk4w
+#EXTINF:-1 tvg-id="RadyoGOL" tvg-name="RADYO GOL 7/24" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/eG4OLJ0VVxE9_TdDhNQAn-ez8n9NP065U5fnI8x27gL3oF0Ko84MYvwb56opmtftUHoxDBjGOA",RADYO GOL 7/24
+http://yt-hls.trgmx.workers.dev/?ID=UCYZXUIM5dPrCCZVZ8-OEmfg
+#EXTINF:-1 tvg-name="Behzat Ç. Bölümler 7/24" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/Z8zZMS4sIhD7JJi20qr1fMFtHlJ7-liknZqqCzPg-0PfQGhgRv4sMxvUfT4x11U5QnFp1VbmYg",Behzat Ç. Bölümler 7/24
+http://yt-hls.trgmx.workers.dev/?ID=UCH3WnhFSx9r850HJRRs16lQ
+#EXTINF:-1 tvg-name="Kral FM" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/VdVVUwzexITWPML3mfsUl7O2zUGa_f5gSuk6Gu5DNHVwzIlz99EnjNgO41Ay33_ovq48pQ5-0hA",Kral FM
+http://yt-hls.trgmx.workers.dev/?ID=UCEAW_kmPVjxTC50vuLyKOQA
+#EXTINF:-1 tvg-name="Viva Arabesk" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/NSfWupUe1_JxIjUCS3_KdWQELqyz7cW_07xIPFuhgMeE1_9eorDF--rRWU8iKyIsRyPhAKOgHA",Viva Arabesk
+http://yt-hls.trgmx.workers.dev/?ID=UCzyN7rGcha288LRQG6mHHcA
+#EXTINF:-1 tvg-name="Arabesk Tüneli Radyo • 7/24" group-title="YouTUBE" tvg-logo="https://yt3.googleusercontent.com/kv1H-TCUE1JNIDEjb9aisSs7-v7xjUO6k0pF2qa04oUDE08VIU9qIkVZ5cjxuPRFGLyJKTi_",Arabesk Tüneli Radyo • 7/24
+http://yt-hls.trgmx.workers.dev/?ID=UC64zbKgdrr3JByK_QRgugqg
