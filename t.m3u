@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="test" tvg-id="test" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="[TR] Ulusal",test
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AX512 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-https://thebest.umittv.workers.dev/?url=https://www.indihometv.com/livetv/antv
