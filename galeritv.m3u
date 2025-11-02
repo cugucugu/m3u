@@ -1,0 +1,464 @@
+#EXTM3U
+======================================= Channel Vision+ =====================================
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Channel Vision+",SCTV 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/indosiar.jpg" group-title="Channel Vision+",INDOSIAR 
+http://103.153.246.42:4022/udp/239.2.2.28:3000
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://www.visionplus.id/images/repository/446/353446-SNAPSHOT-l.png" group-title="Channel Vision+", MNCTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000106/1024.m3u8
+ 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://www.visionplus.id/images/repository/447/353447-SNAPSHOT-l.png" group-title="Channel Vision+", GTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000113/1024.m3u8
+ 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="Channel Vision+", RCTI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000143/1024.m3u8
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://www.visionplus.id/images/repository/171/438171-SNAPSHOT-l.png" group-title="Channel Vision+",ANTV 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://www.visionplus.id/images/repository/176/438176-SNAPSHOT-l.png" group-title="Channel Vision+", Trans 7
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000008/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://www.visionplus.id/images/repository/175/438175-SNAPSHOT-l.png" group-title="Channel Vision+",Trans TV 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000009/1024.m3u8
+
+#EXTINF:-1 tvg-id="tvri.sport.id" tvg-name="tvri sport" tvg-logo="https://mimipipi22.github.io/logo/sports/tvrisport.jpg" group-title="Channel Vision+",TVRI SPORT
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+http://103.66.62.83:8000/play/a00n/index.m3u8
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/moji.jpg" group-title="Channel Vision+",MOJI DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444150.ts
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/174/438174-SNAPSHOT-l.png" group-title="Channel Vision+", MDTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000136/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/851/437851-SNAPSHOT-l.png" group-title="Channel Vision+", Z BIOSKOP
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000061/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/382/437382-SNAPSHOT-l.png" group-title="Channel Vision+", BTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000041/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/243/437243-SNAPSHOT-l.png" group-title="Channel Vision+", HANACARAKA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000020/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/169/438169-SNAPSHOT-l.png" group-title="Channel Vision+", DAAI TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000044/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/156/438156-SNAPSHOT-l.png" group-title="Channel Vision+", VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/862/437862-SNAPSHOT-l.png" group-title="Channel Vision+", KIDS TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000135/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://www.visionplus.id/images/repository/180/438180-SNAPSHOT-l.png" group-title="Channel Vision+", JTV 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000054/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/170/438170-SNAPSHOT-l.png" group-title="Channel Vision+", JAKTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000080/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/306/437306-SNAPSHOT-l.png" group-title="Channel Vision+", SOCCER CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000144/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/307/437307-SNAPSHOT-l.png" group-title="Channel Vision+", SPOTV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/308/437308-SNAPSHOT-l.png" group-title="Channel Vision+", SPOTV 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/309/437309-SNAPSHOT-l.png" group-title="Channel Vision+", SPORTSTARS 
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/310/437310-SNAPSHOT-l.png" group-title="Channel Vision+", SPORTSTARS 2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/312/437312-SNAPSHOT-l.png" group-title="Channel Vision+", BEIN SPORT2
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000148/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/316/437316-SNAPSHOT-l.png" group-title="Channel Vision+", FIGHT SPORT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/242/437242-SNAPSHOT-l.png" group-title="Channel Vision+", Celebrities Tv
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000015/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/179/438179-SNAPSHOT-l.png" group-title="Channel Vision+", BANDUNG TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/849/437849-SNAPSHOT-l.png" group-title="Channel Vision+", CALESTIAL MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000032/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", Thrill
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="DMI Tv" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/838/437838-SNAPSHOT-l.png" group-title="Channel Vision+",DMI Tv
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Food Travel" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/157/438157-SNAPSHOT-l.png" group-title="Channel Vision+", FOOD TRAVEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/164/438164-SNAPSHOT-l.png" group-title="Channel Vision+", KIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/165/438165-SNAPSHOT-l.png" group-title="Channel Vision+", HITS MOVIE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/150/438150-SNAPSHOT-l.png" group-title="Channel Vision+", TVN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/847/437847-SNAPSHOT-l.png" group-title="Channel Vision+", TVN MOVIES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Tv5 Monde" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/167/438167-SNAPSHOT-l.png" group-title="Channel Vision+", TV5 Monde
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/132/493132-SNAPSHOT-l.jpg" group-title="Channel Vision+", Cbeebies
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Sea Go" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",Sea Go
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TVRI" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/173/438173-SNAPSHOT-l.png" group-title="Channel Vision+", TVRI
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", Reformed 21
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000016/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", TVN CHN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000017/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", IDX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/844/437844-SNAPSHOT-l.png" group-title="Channel Vision+", MUSLIM TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/159/438159-SNAPSHOT-l.png" group-title="Channel Vision+", STAR CHN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000023/1024.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/840/437840-SNAPSHOT-l.png" group-title="Channel Vision+", TVMU
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
+
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/701/437701-SNAPSHOT-l.png" group-title="Channel Vision+", FRANCE 24
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000025/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/130/493130-SNAPSHOT-l.jpg" group-title="Channel Vision+", BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000026/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/880/437880-SNAPSHOT-l.png" group-title="Channel Vision+", HISTORY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000027/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", CCM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", NHK WORD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000029/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", CNA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000030/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", EURO NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000031/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", KOREA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000034/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", CGTN DOCUMENTARY
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000035/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", FOX NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000038/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",CGTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000039/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", TV MACCAU
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000040/1024.m3u8
+
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", BLANK
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000042/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", LIFETIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000046/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", CNBC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000048/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", EWTN
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000049/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", LIFE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000050/1024.m3u8
+
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", MAKKAH LIVE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000067/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", CRIME INVESTIGATION
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000070/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",ABC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000073/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", ALJAZEERA
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000074/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", Rock Action
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000120/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", STUDIO UNIVERSAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000121/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", ANIMAX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",ONE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000123/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", GALAXI PREMIUM
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000126/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", LOVE NATURE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000127/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", INEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", MUSIC TV
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000129/1024.m3u8
+
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", VISION PRIME
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", TRT WORLD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000131/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", GLOBAL TREKKER
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000132/1024.m3u8
+#EXTINF:-1 tvg-id="Test" tvg-name="Test" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", IMC
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000133/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", CINEEDGE
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000145/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", BBC NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000146/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", ZOO MOO
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", RT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000153/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",ORIGINAL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000154/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", SUPERRIX
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000155/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", UNIQUES
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000156/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",BUDDY STAR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000157/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+",DW NEWS
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000158/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", OUTDOOR
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000161/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", MOONBUG
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000162/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", FIGHT SPORT
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
+#EXTINF:-1 tvg-id="Vision+" tvg-name="Vision+" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="Channel Vision+", DREAM CHANNEL
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000164/1024.m3u8
+
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 1
+https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC8xLR8AfM4mURd3WtQLml7w
+
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EVEN 2
+https://iptvfreemium.serv00.net/youtubechannelid.php?id=UC8xLR8AfM4mURd3WtQLml7w
+
+
+#EXTINF:-1 group-title="Channel Vision+" tvg-logo="https://i.pinimg.com/474x/c5/3e/b8/c53eb838684817c062f4d939f0210c3e.jpg", EPL 1
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/HubsportPL1.m3u8
+
+
+
+======================================= BIOSKOP ==============================================
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY"
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",1. GUNAKAN PLAYER EXTERNAL /VLC PLAYER DOWNLOAD DI PLAYSTORE ATAU APTOIDE TV
+https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/ba/3d/f5/ba3df5a315a357e0db3b4746de24b390.jpg" group-title="MOVIE SATURDAY",1. MOVIE SATURDAY JUGA ADA DI PUSTAKA MEDIA/GALLERY
+https://drive.usercontent.google.com/download?id=1bl_Hvn8EQkZz8vw-kkzQ3QEhaDaU9aUl&export=download
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/42/e5/86/42e5861285ea9843c18aa01c1d1d26ce.jpg" group-title="MOVIE SATURDAY", The home 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/The.Home.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/ef/58/63ef5831561d62fcafbe7e3437c3d665.jpg" group-title="MOVIE SATURDAY", Know What You Did Last Summer (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/I.Know.What.You.Did.Last.Summer.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/ca/35/b6/ca35b6c7dba9d2b4f7a0d069c2437e93.jpg" group-title="MOVIE SATURDAY", I Am What I Am 2
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/15/Xiong.shi.shao.nian.2.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/74/b7/db/74b7dbdaeac0c74e7a1673879f03961f.jpg" group-title="MOVIE SATURDAY", Red sonja 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Red.Sonja.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/0c/42/5b/0c425b5d05af70f62420d6dd9b3bcc74.jpg" group-title="MOVIE SATURDAY", Nobody 2 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Nobody.2.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/6e/ab/a6/6eaba6133685cab4e4008dd5fa6040df.jpg" group-title="MOVIE SATURDAY", Noise 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Noijeu.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/28/f6/11/28f611e1a287976270e1428e36727495.jpg" group-title="MOVIE SATURDAY", Best Wishes to All
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Best.Wishes.to.All.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1b/e1/5f/1be15f5b4943399965b1f5b5863d6d4e.jpg" group-title="MOVIE SATURDAY", The A-Frame
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/The.A.Frame.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/90/df/05/90df05d549151cde0c1f244f1479ed9c.jpg" group-title="MOVIE SATURDAY", Kabir Azabi Insi ve Cinni
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/13/Kabir.Azabi.Insi.ve.Cinni.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/fd/89/10/fd8910f50810b771288a2f8b4ac31d2f.jpg" group-title="MOVIE SATURDAY", Queen of Bones 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Queen.of.Bones.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9d/2d/af/9d2daf2088a78d31f3e4d1f469f72fe2.jpg" group-title="MOVIE SATURDAY", The Exit 8 (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/8ban.deguchi.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/64/d9/b2/64d9b27b6bee95b9a3f72b7239f59562.jpg" group-title="MOVIE SATURDAY", Ghost Train (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Ghost.Train.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4b/7f/41/4b7f413eb7d766b855c41a01eaeb9ace.jpg" group-title="MOVIE SATURDAY", Woodwalkers
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/12/Woodwalkers.2024.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1b/2f/16/1b2f167b2c7dc95f3a95bdc43293ef80.jpg" group-title="MOVIE SATURDAY", Eenie Meanie (2025)
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Eenie.Meanie.2025.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/06/65/2e/06652e7b42853681e18b31e3d8595982.jpg" group-title="MOVIE SATURDAY", Abandoned Man 2025
+https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Aug/11/Abandoned.Man.2025.mp4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/54/01/40/5401404c77158e5dfdc6aa9b242cdc80.jpg" group-title="MOVIE SATURDAY", Singsot Siulan Kematian
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401721890.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/38/cc/41/38cc418f11b9106779b7415fc3555b53.jpg" group-title="MOVIE SATURDAY",Rambut Kafan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401688944.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/8f/d9/c1/8fd9c1f172ca4981ed7940ab48da30d2.jpg" group-title="MOVIE SATURDAY",Azzamine
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587364.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/5b/99/cd5b99d486904fbf06b566b52d2899fc.jpg" group-title="MOVIE SATURDAY",Blood Star
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587365.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cd/6e/51/cd6e513bda3ec1bb4296b3e26a5299b2.jpg" group-title="MOVIE SATURDAY",Golam
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587906.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3a/89/f1/3a89f1555904412ebb8b483550a7d1b6.jpg" group-title="MOVIE SATURDAY",Get Away
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587905.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/4f/8c/1a/4f8c1a6b4c8fdd9097b0e2a6c1c02081.jpg" group-title="MOVIE SATURDAY",Home Sweet Loan
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587908.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/09/5e/57/095e574d54b976466d7b927a23bb7445.jpg" group-title="MOVIE SATURDAY",Into the Deep
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587909.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/58/bb/4c/58bb4cd912d907f8f69744ae5cddf4a5.jpg" group-title="MOVIE SATURDAY",Sleeping Beauties
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587913.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/cc/d1/19/ccd11978f0aaef79b5910ea2c5023f23.jpg" group-title="MOVIE SATURDAY",Suami Yang Lain
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587915.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2d/76/25/2d762563376ba25c7fe2986582933270.jpg" group-title="MOVIE SATURDAY",Sunray Fallen Soldier
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587916.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/96/4c/2a/964c2a1bfb20c52e619081343178155f.jpg" group-title="MOVIE SATURDAY",The Order
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587918.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/34/3f/4c/343f4ce063d77b3637903596fd19036c.jpg" group-title="MOVIE SATURDAY",Vlad the Impaler
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587919.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/46/43/2e/46432ea9e792fd0539d8367ad6bcc885.jpg" group-title="MOVIE SATURDAY",Wake Up
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401587920.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d3/f8/11/d3f81140410a281bc1822c25d5d51657.jpg" group-title="MOVIE SATURDAY",Rasuk
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401620781.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/9c/91/a1/9c91a1c887e2ba3afa36e2f790923b1e.jpg" group-title="MOVIE SATURDAY",Tastes of Horror
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401588167.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/2e/1b/be/2e1bbea5605a31b77f8e4c89ca84c98c.jpg" group-title="MOVIE SATURDAY",Cinta Dari Timor
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401566071.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/36/49/94/364994b8523ac7bd43b69caf123672a3.jpg" group-title="MOVIE SATURDAY",Edward Scissorhands
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401576621.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/23/50/cb/2350cbe94cad74de355a987a28d14fb0.jpg" group-title="MOVIE SATURDAY",Hunting With Tigers
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563380.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/3e/e2/7a/3ee27a0c5cba7c291e01a0dbe3e3cef6.jpg" group-title="MOVIE SATURDAY",Kahar Kapla High Council
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401567803.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/df/c8/c6/dfc8c61fe120745301679b50a0905cc3.jpg" group-title="MOVIE SATURDAY",Mount Kawi
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575732.mkv
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/63/98/8f/63988f21d211eee900823ee0b992931e.jpg" group-title="MOVIE SATURDAY",Pelet Tali Pocong
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401572086.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/90/d3/64/90d36426e5c5f229d42ea01115f125b8.jpg" group-title="MOVIE SATURDAY",Pilot
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575733.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/1c/6e/80/1c6e80226f4a258350156517c98d8995.jpg" group-title="MOVIE SATURDAY",Sorgavaasal
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401572088.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d7/13/d7/d713d737706bdc122f0f12c6ae83b857.jpg" group-title="MOVIE SATURDAY",Sumala
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401585133.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e5/5f/89/e55f893a2fb86683bd367d9da8492d8e.jpg" group-title="MOVIE SATURDAY",The Apprentice
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401572089.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/65/0d/bf/650dbfb60e7ba8516836a3bdb35f8acc.jpg" group-title="MOVIE SATURDAY",Anaconda
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575730.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/d0/52/79/d052795feb7b7b3a9622796c388fe324.jpg" group-title="MOVIE SATURDAY",The Con Artists
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563375.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/db/0c/da/db0cdacf3595910414e47d3d5474ad26.jpg" group-title="MOVIE SATURDAY",The Limit 
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563378.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/20/50/49/205049d0d65e7826a505ffe8e286625f.jpg" group-title="MOVIE SATURDAY",The Paradise of Thorns (recomen)
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563379.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/70/36/5c/70365c60aa6274bc6179d93b1b78f4e2.jpg" group-title="MOVIE SATURDAY",Tujuh Hari Untuk Keshia
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401575734.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/87/bc/16/87bc168b4cde9566d732485d4980b46e.jpg" group-title="MOVIE SATURDAY",Uang Panai 2
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563382.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f8/cb/0c/f8cb0c0e0dd5ab2079909408cf0a5b5e.jpg" group-title="MOVIE SATURDAY",Tulang Belulang Tulang
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563381.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/56/2d/f5/562df5fcadd3a37b9b4fc1d58fb8bc6d.jpg" group-title="MOVIE SATURDAY",Unstoppable
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401567805.mp4
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/e3/ae/dc/e3aedc5ff2c9204ad8b311e1701f7a6f.jpg" group-title="MOVIE SATURDAY",Vazhiye
+http://exm3u.extraott.com:80/movie/ZUL96376/UG4VTW4E/401563384.mp4
