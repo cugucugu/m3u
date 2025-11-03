@@ -418,8 +418,6 @@ http://tkosportz.live:25461/live/edaniels2023/6066225419/10370.m3u8
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10371.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmoCwfS.png"group-title="Knowledge & Documentary",BBC America
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10372.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8TJywqSBbqcRw8p6iHvkZmruQRcn-K4a_1Q&usqp=CAU" group-title="Knowledge & Documentary",BBC Lifestyle
-http://opplex.tv:8080/live/mother/mother/350899.ts
 #EXTINF:-1 tvg-logo="https://p1.hiclipart.com/preview/941/241/157/tv-channel-icons-pack-cmt-white-png-icon.jpg" group-title="Knowledge & Documentary",Country Music Television
 http://tkosportz.live:25461/live/edaniels2023/6066225419/10377.m3u8
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/station_logos/Justice-CentralTV_m.png" group-title="Knowledge & Documentary",Justice Central TV
@@ -430,12 +428,6 @@ https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8
 http://activefrance.net:80/live/F17103C21112C14/xJYbCkwLRR/1052477.ts
 #EXTINF:-1 tvg-url="" tvg-id="Discovery world" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Knowledge & Documentary",Discovery Theater
 http://p2.hostinggonemoreso1.com:2082/xplus-2-VtqagC1BG9/L3SqBxVsod/74
-#EXTINF:=-1 tvg-id="DiscoveryAsia" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://iili.io/JmoC8Ob.png",DISCOVERY ASIA
-http://opplex.tv:8080/live/mother/mother/388770.ts
-#EXTINF:-1 tvg-url="" tvg-id="Discovery world" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Knowledge & Documentary",Discovery World
-http://opplex.tv:8080/live/mother/mother/350933.ts
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-channel-discovery-channel-videos-logo-11563508656irnwtaeoly.png" group-title="Knowledge & Documentary",Discovery HD
-http://opplex.tv:8080/live/mother/mother/388766.ts
 #EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/discovery-channel-discovery-channel-videos-logo-11563508656irnwtaeoly.png" group-title="Knowledge & Documentary",Discovery Family
 http://cord-cutter.net:8080/7686199/9576982/57347
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Knowledge & Documentary",Discovery science
@@ -463,8 +455,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.m
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd|license_type=com.widevine.alpha&license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="biznet adventure" tvg-logo="https://iili.io/JmoCN07.png" group-title="Knowledge & Documentary",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
-#EXTINF:-1 tvg-id="Tech Storm" tvg-logo="https://iili.io/JmoCN07.png" group-title="Knowledge & Documentary",Tech Storm
-http://opplex.tv:8080/live/mother/mother/351036.ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -481,20 +471,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd|l
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="Knowledge & Documentary",National Geographic
-http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="Knowledge & Documentary",National Geographic Wild
-http://opplex.tv:8080/live/mother/mother/109976.ts
-#EXTINF:-1 tvg-url="" tvg-id="" tvg-logo="https://i.ibb.co.com/4LgsdtB/wp8223158.jpg" group-title="Knowledge & Documentary",National Geographic Asia
-http://vipkjbw.top:8080/live/VIP0192170801043953/c3448c66c871/34667.ts
-#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="" tvg-logo="https://iili.io/d9HE0l9.png" group-title="Knowledge & Documentary",DMAX
-http://opplex.tv:8080/live/mother/mother/346217.ts
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/3336/brand.gif?itok=qou1UWIb" group-title="Knowledge & Documentary",MEKKAH HD
-http://opplex.tv:8080/live/mother/mother/10.ts
-#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="Knowledge & Documentary",Smithsonian
-http://opplex.tv:8080/live/mother/mother/347361.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JZICdD7.png" group-title="Knowledge & Documentary",Lifetime
-http://opplex.tv:8080/live/mother/mother/350987.ts
 
 <=================== Entertainment & Lifestyle =============================>
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
