@@ -6,6 +6,7 @@ https://freeimage.host/i/3BTyU9p
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+
 #EXTINF:-1 tvg-id="GTV" tvg-url="" tvg-logo="https://iili.io/JMp3joP.png" group-title="Indonesia Channels",GTV
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&referrer=https://visionplus.id
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -429,7 +430,7 @@ https://cdn09jtedge.indihometv.com/joss/130/pandatv/index.m3u8
 http://activefrance.net:80/live/F17103C21112C14/xJYbCkwLRR/1052477.ts
 #EXTINF:-1 tvg-url="" tvg-id="Discovery world" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Knowledge & Documentary",Discovery Theater
 http://p2.hostinggonemoreso1.com:2082/xplus-2-VtqagC1BG9/L3SqBxVsod/74
-#EXTINF:=1 tvg-id="DiscoveryAsia" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://iili.io/JmoC8Ob.png",DISCOVERY ASIA
+#EXTINF:=-1 tvg-id="DiscoveryAsia" tvg-name="" group-title="Knowledge & Documentary" tvg-logo="https://iili.io/JmoC8Ob.png",DISCOVERY ASIA
 http://opplex.tv:8080/live/mother/mother/388770.ts
 #EXTINF:-1 tvg-url="" tvg-id="Discovery world" tvg-logo="https://iili.io/JmoCv5u.png" group-title="Knowledge & Documentary",Discovery World
 http://opplex.tv:8080/live/mother/mother/350933.ts
